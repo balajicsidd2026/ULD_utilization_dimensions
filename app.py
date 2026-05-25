@@ -131,13 +131,8 @@ def validate_uld_file(df):
 # =====================================================
 
 st.title(
-    "AI Cargo ULD Optimization System"
+    "AI Cargo ULD Allocation System"
 )
-
-st.markdown(
-    "Constraint-Based Best Fit Decreasing Bin Packing Algorithm"
-)
-
 
 # =====================================================
 # FILE UPLOAD
