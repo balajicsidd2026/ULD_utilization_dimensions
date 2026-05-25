@@ -10,7 +10,7 @@ import json
 # =====================================================
 
 st.set_page_config(
-    page_title="ULD Optimization System",
+    page_title="ULD Allocation System",
     layout="wide"
 )
 
